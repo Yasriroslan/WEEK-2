@@ -1,0 +1,20 @@
+package exercise1;
+
+public class onedaycampuslife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    System.out.println("Wake up at 6 morning");
+    System.out.println("Pray for subuh");
+    System.out.println("Eat breakfast at 7:30 a.m");
+    System.out.println("Prepare for morning clasess");
+    System.out.println("Take a lunch at 1 p.m");
+    System.out.println("Continue afternoon clasess");
+    System.out.println("Take a some break from 5.30 p.m untill 7 p.m");
+    System.out.println("Take a dinner at 8.30 p.m");
+    System.out.println("Do everything untill 9 p.m");
+    System.out.println("Do programming work start 9 p.m to 11 p.m");
+    System.out.println("Slepp around 12 a.m"); 
+	}
+
+}
